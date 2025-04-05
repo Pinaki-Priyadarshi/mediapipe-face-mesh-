@@ -7,7 +7,7 @@ This project uses the **MediaPipe Face Mesh** solution to detect and visualize *
 
 ## 📸 Demo
 
-![Demo Screenshot](https://user-images.githubusercontent.com/your-demo-img.png) <!-- Optional: You can upload a screenshot later -->
+![Demo Screenshot](https://github.com/Pinaki-Priyadarshi/mediapipe-face-mesh-/blob/main/Screenshot%20(86).png) <!-- Optional: You can upload a screenshot later -->
 
 ---
 
